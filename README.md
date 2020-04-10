@@ -1,2 +1,2 @@
-# my-first-web-page
-My first StartNG HTML WebPage
+# my-html-tasks
+ StartNG HTML Tasks
