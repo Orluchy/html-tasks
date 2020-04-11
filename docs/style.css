@@ -97,10 +97,10 @@ p{
 }
 
 .form-container form input{
-    width: inherit;
+    width: 200px;
     background-color: #EDF2F7;
     padding: 8px;
-    margin: 0;
+    margin-bottom: 2.1em;
     font-size: 15px;
     font-weight: 400;
     color: #1A202C;
