@@ -97,10 +97,9 @@ p{
 }
 
 .form-container form input{
-    width: var(--form-width);
-    max-width: var(--max-form-width);
+    width: inherit;
     background-color: #EDF2F7;
-    padding: 0px 4px 0px 4px;
+    padding: 8px;
     margin-bottom: 32px;
     font-size: 15px;
     font-weight: 400;
@@ -117,14 +116,13 @@ p{
 }
 
 .form-container form select{
-    width: var(--form-width);
-    max-width: var(--max-form-width);
+    width: inherit;
     background-color: #EDF2F7;
     margin-bottom: 2em;
     height: 52px;
     border: 0;
     border-radius: 6px;
-    padding: 4px;
+    padding: 8px;
     color: #4A5568;
 }
 
