@@ -98,7 +98,7 @@ p{
 
 .form-container form input{
     background-color: #EDF2F7;
-    padding: 0px 8px 0px 8px;
+    padding: 0px 4px 0px 4px;
     margin-top: 10px;
     margin-bottom: 32px;
     font-size: 15px;
@@ -121,7 +121,7 @@ p{
     height: 52px;
     border: 0;
     border-radius: 6px;
-    padding: 8px;
+    padding: 4px;
     color: #4A5568;
 }
 
