@@ -83,7 +83,7 @@ p{
     width: var(--form-width);
     max-width: var(--max-form-width);
     font-size: 15px;
-    margin: 29px 0px 10px;
+    margin: 29px 0px 0px;
 }
 
 .form-container form label{
@@ -120,7 +120,7 @@ p{
 .form-container form select{
     background-color: #EDF2F7;
     margin-bottom: 2em;
-    width: 380px;
+    width: 300px;
     height: 52px;
     border: 0;
     border-radius: 6px;
