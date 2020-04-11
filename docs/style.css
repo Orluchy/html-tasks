@@ -97,11 +97,11 @@ p{
 }
 
 .form-container form input{
-    width: 300px;
-    max-width: calc(380px);
+    width: 260px;
+    display: flex;
     background-color: #EDF2F7;
     padding: 8px;
-    margin: 28px;
+    margin: 20px;
     font-size: 15px;
     font-weight: 400;
     color: #1A202C;
