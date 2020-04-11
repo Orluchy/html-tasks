@@ -116,7 +116,7 @@ p{
 }
 
 .form-container form select{
-    width: inherit;
+    width: 100%;
     background-color: #EDF2F7;
     margin-bottom: 2em;
     height: 48px;
