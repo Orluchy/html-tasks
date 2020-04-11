@@ -108,9 +108,7 @@ p{
     box-shadow: none;
     border: 0;
     border-radius: 6px;
-    width: inherit;
-    max-width: calc(380px);
-    height: 50px
+    height: 50px;
 }
 
 
@@ -121,7 +119,6 @@ p{
 .form-container form select{
     background-color: #EDF2F7;
     margin-bottom: 2em;
-    width: inherit;
     height: 52px;
     border: 0;
     border-radius: 6px;
