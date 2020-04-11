@@ -97,10 +97,10 @@ p{
 }
 
 .form-container form input{
-    width: 200px;
+    width: 100%;
     background-color: #EDF2F7;
     padding: 8px;
-    margin-bottom: 2.1em;
+    margin-bottom: 3em;
     font-size: 15px;
     font-weight: 400;
     color: #1A202C;
