@@ -83,7 +83,7 @@ p{
     width: var(--form-width);
     max-width: var(--max-form-width);
     font-size: 15px;
-    margin: 29px 0px 0px;
+    margin: 29px 0px 20px;
 }
 
 .form-container form label{
@@ -100,7 +100,7 @@ p{
     width: 100%;
     background-color: #EDF2F7;
     padding: 8px;
-    margin-bottom: 3em;
+    margin-bottom: 2em;
     font-size: 15px;
     font-weight: 400;
     color: #1A202C;
