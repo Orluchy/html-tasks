@@ -19,7 +19,7 @@ body{
     background-image: url("imgs/blue.png"), url("imgs/green.png"), url("imgs/pink.png"), url("imgs/purple.png");
     background-position: left -5% top -13.5%, right -9% top -3%, left -5% bottom -10%, right -7.4% bottom -5%;
     background-size: 14%, 14%, 14%, 14%;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
     background-attachment: fixed;
     background-color: #062863;
     font-family: "Source Sans Pro", sans-serif;
@@ -100,7 +100,7 @@ p{
     width: 100%;
     background-color: #EDF2F7;
     padding: 8px;
-    margin-bottom: 1em;
+    margin: 0px 0px 32px 0px;
     font-size: 15px;
     font-weight: 400;
     color: #1A202C;
