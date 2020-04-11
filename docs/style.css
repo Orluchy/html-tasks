@@ -97,9 +97,10 @@ p{
 }
 
 .form-container form input{
+    width: var(--form-width);
+    max-width: var(--max-form-width);
     background-color: #EDF2F7;
     padding: 0px 4px 0px 4px;
-    margin-top: 10px;
     margin-bottom: 32px;
     font-size: 15px;
     font-weight: 400;
@@ -116,6 +117,8 @@ p{
 }
 
 .form-container form select{
+    width: var(--form-width);
+    max-width: var(--max-form-width);
     background-color: #EDF2F7;
     margin-bottom: 2em;
     height: 52px;
