@@ -98,10 +98,10 @@ p{
 
 .form-container form input{
     display: block;
-    width: inherit;
+    width: var(--form-width);
     background-color: #EDF2F7;
     padding: 8px;
-    margin: 32px;
+    margin: 29px 0px 0px;
     font-size: 15px;
     font-weight: 400;
     color: #1A202C;
@@ -117,7 +117,7 @@ p{
 }
 
 .form-container form select{
-    width: inherit;
+    width: var(--form-width);
     background-color: #EDF2F7;
     margin-bottom: 2em;
     height: 52px;
